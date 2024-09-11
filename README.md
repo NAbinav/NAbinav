@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabinav&label=Profile%20views&color=0e75b6&style=flat" alt="nabinav" /> </p>
 
-- 🔭 I’m currently working on [VPX](https://github.com/KAMY-INDUS/VPX)
 
 - 🌱 I’m currently learning *NextJs*
 
@@ -15,7 +14,7 @@
 
 - 💬 Ask me about *ReactJS,NextJS,Databases*
 
-- 📫 How to reach me *yashvanthk05@gmail.com*
+- 📫 How to reach me *abinav0506@gmail.com*
 
 - 📄 Know about my experiences [https://github.com/NAbinav](https://github.com/NAbinav)
 
