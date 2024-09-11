@@ -19,7 +19,6 @@
 - 📄 Know about my experiences [https://github.com/NAbinav](https://github.com/NAbinav)
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
