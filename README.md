@@ -18,7 +18,6 @@
 
 - 📄 Know about my experiences [https://github.com/NAbinav](https://github.com/NAbinav)
 
-- ⚡ Fun fact *I Like to create Amazing CSS WebWorks!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
